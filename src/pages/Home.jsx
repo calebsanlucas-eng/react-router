@@ -1,7 +1,6 @@
-function Home(){
-    return (<h1>
-        Esto es la pagina home
-    </h1>)
-}
-
-export default Home;
+function Home() {
+    return <h1 className="text-2xl font-bold">Home Page</h1>;
+  }
+  
+  export default Home;
+  
